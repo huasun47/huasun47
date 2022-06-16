@@ -1,4 +1,4 @@
-### Hi there 👋
+### 再见了，男孩 👋
 
 <!--
 **huasun47/huasun47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
