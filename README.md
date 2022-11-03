@@ -1,6 +1,6 @@
 # 目的
 
-摆脱 骆驼，孔乙己，我不需要检测，更不需要指明方向
+以人为本
 
 <!--
 **huasun47/huasun47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
