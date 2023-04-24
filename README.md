@@ -1,6 +1,6 @@
 # 目标
 
-隐居
+避世
 
 <!--
 **huasun47/huasun47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
