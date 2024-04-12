@@ -1,2 +1,2 @@
-🌍 🖐️ Talk more do more 😈
+🌍 🖐️ Talk more do more 🔥
 ﻿
