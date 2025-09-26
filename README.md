@@ -6,8 +6,8 @@
 ## 🌟 About Me  
 A lunatic who is passionate about off-road motorcycles
 
-- 🌱 Learning: **Everything in the earth**  
-- 💬 Ask me about: **Web Dev, Motorcycles, or Leave**  
+- 🌱 Learning: **Everything in the earth** 🌏  
+- 💬 Ask me about: **Web Dev, Motorcycles**  
 
 ---
 
