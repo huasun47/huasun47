@@ -1,5 +1,5 @@
 # 🚀 **Huasan47**  
-&gt; **Full-stack Developer | Used to be a painter**  
+&gt; **Full-stack Developer | Used to be a Painter**  
 
 ---
 
