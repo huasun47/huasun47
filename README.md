@@ -13,7 +13,7 @@ A lunatic who is passionate about off-road motorcycles
 
 ## 🎨 Fun Corner  
 ```python
-# My life in code
+# No imitation
 while (alive) {
     StartEngines();
     PlayEurobeatMusic();
